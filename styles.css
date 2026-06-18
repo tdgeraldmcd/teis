@@ -336,13 +336,21 @@ h2 em {
 
 .hero h1 {
   max-width: 720px;
-  margin-bottom: 32px;
+  margin-bottom: 18px;
   font-size: clamp(68px, 8.5vw, 142px);
   letter-spacing: -0.075em;
 }
 
 .hero h1 em {
   color: var(--cobalt);
+}
+
+.hero__subheadline {
+  margin-bottom: 32px;
+  color: var(--ink);
+  font-size: clamp(20px, 2vw, 32px);
+  font-weight: 600;
+  letter-spacing: -0.035em;
 }
 
 .definition {
