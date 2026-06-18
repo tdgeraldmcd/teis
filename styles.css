@@ -9,8 +9,8 @@
   --green: #0b4938;
   --green-deep: #082f26;
   --white: #faf9f5;
-  --serif: Georgia, "Times New Roman", Times, serif;
-  --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --serif: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
   --shell: min(1240px, calc(100vw - 64px));
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
